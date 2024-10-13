@@ -1,3 +1,5 @@
+Access deployed version via: https://emil28092005.github.io/Stupid_Doodle_Drawer.github.io
+
 Draw stupid doodles my inserting arguments.
 
 Reload the page to clear canvas.
